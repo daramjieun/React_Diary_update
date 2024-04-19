@@ -1,8 +1,16 @@
-# React + Vite
+리액트로 만든 일기장 앱입니다. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- CRUD
+- userReducer, useEffect 리액트 훅
+- react-router-dom
+- 로컬 스토리지: 로컬에 데이터를 일기 데이터를 저장 가능하게 만들었습니다.
+- OG 작업: SNS 배포 시 미리보기 기능
+- Vercel 배포
 
-Currently, two official plugins are available:
+### 로컬 스토리지
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### OG 작업
+
+
+### Vercel 배포
