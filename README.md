@@ -1,5 +1,4 @@
 리액트로 만든 일기장 앱입니다. 
-<br>
 
 - CRUD
 - userReducer, useEffect 리액트 훅
